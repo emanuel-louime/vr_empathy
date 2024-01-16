@@ -1,0 +1,4 @@
+# Ignore generated JSONs containing identifiable interview transcripts
+*.json
+# Ignore CSVs containing analysis and transcripts with identifiable informationo
+*.csv
